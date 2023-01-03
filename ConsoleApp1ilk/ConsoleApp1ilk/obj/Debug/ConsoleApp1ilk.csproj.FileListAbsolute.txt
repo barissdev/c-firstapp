@@ -1,0 +1,8 @@
+C:\Users\baris\source\repos\ConsoleApp1ilk\ConsoleApp1ilk\bin\Debug\ConsoleApp1ilk.exe.config
+C:\Users\baris\source\repos\ConsoleApp1ilk\ConsoleApp1ilk\bin\Debug\ConsoleApp1ilk.exe
+C:\Users\baris\source\repos\ConsoleApp1ilk\ConsoleApp1ilk\bin\Debug\ConsoleApp1ilk.pdb
+C:\Users\baris\source\repos\ConsoleApp1ilk\ConsoleApp1ilk\obj\Debug\ConsoleApp1ilk.csproj.AssemblyReference.cache
+C:\Users\baris\source\repos\ConsoleApp1ilk\ConsoleApp1ilk\obj\Debug\ConsoleApp1ilk.csproj.SuggestedBindingRedirects.cache
+C:\Users\baris\source\repos\ConsoleApp1ilk\ConsoleApp1ilk\obj\Debug\ConsoleApp1ilk.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\ConsoleApp1ilk\ConsoleApp1ilk\obj\Debug\ConsoleApp1ilk.exe
+C:\Users\baris\source\repos\ConsoleApp1ilk\ConsoleApp1ilk\obj\Debug\ConsoleApp1ilk.pdb
